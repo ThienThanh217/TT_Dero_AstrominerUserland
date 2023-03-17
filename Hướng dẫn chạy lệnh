@@ -29,7 +29,7 @@ Setup lệnh đào Dero trên ứng dụng userland như sau:
         -w <địa chỉ ví dero của bạn> 
         -m <số CPU cần đào> 
         -r <địa chỉ pool đào>
-        -p <kiểu kết nối đào stratum hay rpc> mặc định là rpc
+        -p <giao thức kết nối đào stratum hay rpc> mặc định là rpc
     
 3, Lệnh chạy đào coin : (sử dụng ví sàn Kucoin )
 
